@@ -1,0 +1,28 @@
+{
+  "name": "hoo9",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@koale/useworker": "3.0.0",
+    "core-js": "3.6.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.0",
+    "react-toast-notifications": "^2.4.0",
+    "regenerator-runtime": "0.13.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "chrome": "58",
+    "ie": "10"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.18.3"
+  },
+  "keywords": [],
+  "description": ""
+}
